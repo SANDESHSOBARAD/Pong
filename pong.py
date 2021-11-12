@@ -17,6 +17,4 @@ paddle_a.penup()
 paddle_a.goto(-350, 0)
 
 #paddle_B
-         
-while true:
-    wn.update()
+wn.update()
